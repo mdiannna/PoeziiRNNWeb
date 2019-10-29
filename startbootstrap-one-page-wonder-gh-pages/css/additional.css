@@ -1,0 +1,23 @@
+header.masthead {
+    background: linear-gradient(0deg,#ff6a00 0,#6c09ee 100%);
+}
+
+.colored-section {
+    background: linear-gradient(0deg,#ff6a00 0,#6c09ee 100%);
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+.colored-section textarea {
+	min-height: 40vh;
+	margin-bottom: 10px;
+}
+
+
+hr {
+	color: #ff6a00;
+	border-color: #6c09ee ;
+	border-width: 5px;
+}
