@@ -5,7 +5,7 @@ from flask_cors import CORS
 from werkzeug.utils import secure_filename
 import config
 
-# from config import Config
+from config import Config
 # from flask_sqlalchemy import SQLAlchemy
 # from flask_migrate import Migrate
 # from flask_login import LoginManager
@@ -16,7 +16,7 @@ CORS(app)
 
 
 # Configure app
-# app.config['SECRET_KEY'] = config.SECRET_KEY
+app.config['SECRET_KEY'] = config.SECRET_KEY
 
 # # login_manager = LoginManager()
 # login_manager = flask_login.LoginManager()

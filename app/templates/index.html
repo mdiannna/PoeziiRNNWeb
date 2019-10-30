@@ -28,18 +28,18 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="#">Pagina principală</a>
+      <a class="navbar-brand" href="/">Pagina principală</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link" href="#">Sign Up</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Log In</a>
-          </li>
+          </li> -->
         </ul>
       </div>
     </div>
@@ -124,11 +124,15 @@
   <section class="colored-section text-center text-white" id="test">
     <h2 class="display-4">Testeaza</h2>
 
-    <div class="md-form">
-      <!-- <label for="form7">Material textarea</label> -->
-      <textarea id="form7" class="md-textarea form-control" rows="3"></textarea>
-      <button class="btn btn-primary">Ok</button>
-    </div>
+    
+
+
+    <form class="text-center" method="post" enctype=multipart/form-data>
+      <div class="form-group">
+        <textarea id="text" name="text" class="md-textarea form-control" rows="3"></textarea>
+        <input type="submit" value="Upload" class="site-btn btn-dark">
+      </div>
+    </form>
 
   </section>
 
