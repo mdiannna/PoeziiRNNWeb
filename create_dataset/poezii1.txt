@@ -1,0 +1,145 @@
+<tr>
+
+<!-- LEFT SIDE -->
+<td width="150" bgcolor="#C0C596" valign="top" align="center">
+<img src="http://www.romanianvoice.com/graphics/basic/pix_clear.gif" height="1" width="150">
+</td>
+<!-- END LEFT SIDE -->
+
+<!-- GUTTER -->
+<td width="10" height="100%">
+<img src="http://www.romanianvoice.com/graphics/basic/pix_clear.gif" height="1" width="10">
+</td>
+<!-- END GUTTER -->
+
+
+<!-- *MIDDLE* -->
+<td width="100%" valign="top" align="left">
+
+<a href="../poeti/eminescu.php" class="middletoplink">Mihai Eminescu</a>
+
+<hr color="#C0C596" size="1" width="99%" align="left">
+
+
+<font size="+1">Când amintirile...</font>
+
+<br><br>
+
+Când amintirile-n trecut<br>
+Încearcă să mă cheme,<br>
+Pe drumul lung şi cunoscut<br>
+Mai trec din vreme-n vreme.<br><br>
+
+Deasupra casei tale ies<br>
+Şi azi aceleaşi stele,<br>
+Ce-au luminat atât de des<br>
+Înduioşării mele.<br><br>
+
+Şi peste arbori răsfiraţi<br>
+Răsare blânda lună,<br>
+Ce ne găsea îmbrăţişaţi<br>
+Şoptindu-ne-mpreună.<br><br>
+
+A noastre inimi îşi jurau<br>
+Credinţă pe toţi vecii,<br>
+Când pe cărări se scuturau<br>
+De floare liliecii.<br><br>
+
+Putut-au oare-atâta dor<br>
+În noapte să se stângă,<br>
+Când valurile de izvor<br>
+N-au încetat să plângă,<br><br>
+
+Când luna trece prin stejari<br>
+Urmând mereu în cale-şi,<br>
+Când ochii tăi, tot încă mari,<br>
+Se uită dulci şi galeşi?<br><br>
+
+
+<hr color="#C0C596" size="1" width="99%" align="left">
+
+<a href="../poeti/eminescu.php"><img src="../../graphics/buttons/bd_inapoi.gif" border="0" alt="Inapoi" vspace="5"></a>
+
+</td>
+<!-- *END MIDDLE* -->
+
+</tr>
+-----------
+Mihai Eminescu
+-----------
+-----------
+<tr>
+
+<!-- LEFT SIDE -->
+<td width="150" bgcolor="#C0C596" valign="top" align="center">
+<img src="http://www.romanianvoice.com/graphics/basic/pix_clear.gif" height="1" width="150">
+</td>
+<!-- END LEFT SIDE -->
+
+<!-- GUTTER -->
+<td width="10" height="100%">
+<img src="http://www.romanianvoice.com/graphics/basic/pix_clear.gif" height="1" width="10">
+</td>
+<!-- END GUTTER -->
+
+
+<!-- *MIDDLE* -->
+<td width="100%" valign="top" align="left">
+
+<a href="../poeti/eminescu.php" class="middletoplink">Mihai Eminescu</a>
+
+<hr color="#C0C596" size="1" width="99%" align="left">
+
+
+<font size="+1">Criticilor mei</font>
+
+<br><br>
+
+Multe flori sunt, dar puţine<br>
+Rod în lume o să poarte,<br>
+Toate bat la poarta vieţii,<br>
+Dar se scutur multe moarte.<br><br>
+
+E uşor a scrie versuri<br>
+Când nimic nu ai a spune,<br>
+Înşirând cuvinte goale<br>
+Ce din coadă au să sune.<br><br>
+
+Dar când inima-ţi frământă<br>
+Doruri vii şi patimi multe,<br>
+Ş-a lor glasuri a ta minte<br>
+Stă pe toate să le-asculte,<br><br>
+
+Ca şi flori în poarta vieţii<br>
+Bat la porţile gândirii,<br>
+Toate cer intrare-n lume,<br>
+Cer veştmintele vorbirii.<br><br>
+
+Pentru-a tale proprii patimi,<br>
+Pentru propria-ţi viaţă,<br>
+Unde ai judecătorii,<br>
+Ne'nduraţii ochi de gheaţă?<br><br>
+
+Ah! atuncea ţi se pare<br>
+Că pe cap îţi cade cerul:<br>
+Unde vei găsi cuvântul<br>
+Ce exprimă adevărul?<br><br>
+
+Critici voi, cu flori deşerte,<br>
+Care roade n-aţi adus -<br>
+E uşor a scrie versuri<br>
+Când nimic nu ai de spus.<br><br>
+
+
+<hr color="#C0C596" size="1" width="99%" align="left">
+
+<a href="../poeti/eminescu.php"><img src="../../graphics/buttons/bd_inapoi.gif" border="0" alt="Inapoi" vspace="5"></a>
+
+</td>
+<!-- *END MIDDLE* -->
+
+</tr>
+-----------
+Mihai Eminescu
+-----------
+-----------
