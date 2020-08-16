@@ -10,7 +10,8 @@ class RomanianPoemsListSpider(scrapy.Spider):
     # start_urls = ['http://www.romanianvoice.com/poezii/poeti/eminescu.php']
     # start_urls = ['http://www.romanianvoice.com/poezii/poeti/alecsandri.php']
     # start_urls = ['http://www.romanianvoice.com/poezii/poeti/blandiana.php']
-    start_urls = ['http://www.romanianvoice.com/poezii/poeti/blaga.php']
+    # start_urls = ['http://www.romanianvoice.com/poezii/poeti/blaga.php']
+    start_urls = ['http://www.romanianvoice.com/poezii/poeti/toparceanu.php']
     
     def parse(self, response):
       
