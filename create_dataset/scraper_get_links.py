@@ -8,7 +8,9 @@ import scrapy
 class RomanianPoemsListSpider(scrapy.Spider):
     name = 'brick_spider'
     # start_urls = ['http://www.romanianvoice.com/poezii/poeti/eminescu.php']
-    start_urls = ['http://www.romanianvoice.com/poezii/poeti/alecsandri.php']
+    # start_urls = ['http://www.romanianvoice.com/poezii/poeti/alecsandri.php']
+    # start_urls = ['http://www.romanianvoice.com/poezii/poeti/blandiana.php']
+    start_urls = ['http://www.romanianvoice.com/poezii/poeti/blaga.php']
     
     def parse(self, response):
       
